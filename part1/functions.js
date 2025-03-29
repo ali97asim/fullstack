@@ -16,3 +16,9 @@ function printNumbers(n){
         console.log(i+"\n");
     }
 }
+
+//Task 3
+//Assignemnt1 Prime
+
+w
+//
